@@ -1,0 +1,19 @@
+{
+  "name": "voyager-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "build": "webpack"
+  },
+  "dependencies": {
+    "datavoyager": "2.0.0-alpha.15",
+    "node-sass": "4.7.2",
+    "webpack": "4.0.1",
+    "webpack-cli": "2.0.10"
+  },
+  "devDependencies": {
+    "file-loader": "1.1.11",
+    "source-map-loader": "0.2.3"
+  }
+}
